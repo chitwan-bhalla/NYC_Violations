@@ -1,4 +1,4 @@
-![NYC Parking and Camera Violations](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-syzgz&psig=AOvVaw1Y-_mUDIaImcRc6nZNlZo4&ust=1664216986098000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOj5ssjJsPoCFQAAAAAdAAAAABAD)
+![NYC Parking and Camera Violations](https://w7.pngwing.com/pngs/736/741/png-transparent-new-york-city-sticker-wall-decal-traffic-sign-senyalistica-sticker-new-text-logo-monochrome.png)
 ## Data: (https://data.cityofnewyork.us/City-Government/Open-Parking-and-Camera-Violations/nc67-uf89)
 
 
