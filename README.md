@@ -1,4 +1,4 @@
-![NYC Parking and Camera Violations](https://pbs.twimg.com/profile_images/1455220912454778894/QUuWpgQN_400x400.jpg)
+! NYC Parking and Camera Violations :traffic_light:
 ## Data: (https://data.cityofnewyork.us/City-Government/Open-Parking-and-Camera-Violations/nc67-uf89)
 
 
