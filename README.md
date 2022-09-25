@@ -15,7 +15,7 @@ My thought behind this dashboard and data clean-up was to present the data to a 
 - Visualization and Dashboard insights: 
     - Stacked area chart explains the count of Violation trended down, resulting in a 97.92% decrease between January 2016 and August 2022.
 	- Donut Chart shows that Manhattan accounted for 30.31% of the total count of violation followed by Brooklyn which is 29.19%.
-	- I created one visualization using Funnel which shows top 5 states in US that have maximum number of violations, first one being New York with 1.39 Million violations
+	- Funnel visualization shows top 5 states in US that have maximum number of violations, first one being New York with 1.39 Million violations.
 	- Gauge Chart shows the total number of payments done.
 	- Line Chart indicates the top 4 departments with the violations, TRAFFIC had the highest Count of Violation at 1,049,903, followed by DEPARTMENT OF TRANSPORTATION, POLICE DEPARTMENT, and DEPARTMENT OF SANITATION.
 
